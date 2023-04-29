@@ -4,7 +4,7 @@ package javaDZ;
 
 import java.util.Arrays;
 
-public class task5mass {
+public class task2_3mass {
     public static void main(String []args) {
         int[] arr = new int[]{1, -2, 3, 4, 55, -6, 77};
         System.out.println(Arrays.toString(arr));

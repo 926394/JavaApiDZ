@@ -2,7 +2,7 @@ package javaDZ;
 
 import java.util.Scanner;
 
-public class task2intJava {
+public class task1_2intJava {
         public static void main(String[] args) {
             System.out.print("Введите число: \n");
             Scanner scan = new Scanner(System.in);

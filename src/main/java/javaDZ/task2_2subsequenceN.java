@@ -2,7 +2,7 @@ package javaDZ;
 
 
 //Дана последовательность из N целых чисел. Верно ли, что последовательность является возрастающей.
-public class task4subsequenceN {
+public class task2_2subsequenceN {
     public static void main(String[] args) {
 
         System.out.println(primeNumbers("1 2 3 4 5 6 7 8 9 10"));
