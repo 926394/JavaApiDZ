@@ -4,7 +4,7 @@ package javaDZ1;
 
 import java.util.Arrays;
 
-public class task3mass {
+public class task5mass {
     public static void main(String []args) {
         int[] arr = new int[]{1, -2, 3, 4, 55, -6, 77};
         System.out.println(Arrays.toString(arr));
@@ -12,7 +12,7 @@ public class task3mass {
         System.out.println(Arrays.toString(arr));
 
     }
-//
+
     public static int[] sumElements(int[] arr) {
         int sum = 0;
         for (int i = 0; i < arr.length; i++) {
