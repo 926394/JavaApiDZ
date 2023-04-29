@@ -1,4 +1,4 @@
-package javaDZ1;
+package javaDZ;
 
 import java.util.Scanner;
 

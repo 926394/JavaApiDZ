@@ -1,4 +1,4 @@
-package javaDZ1;
+package javaDZ;
 // Дана строка, нужно произвести реверс слов "the sky is blue", "blue is sky the"
 public class task1stringJava {
 
